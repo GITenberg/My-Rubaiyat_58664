@@ -1,0 +1,25 @@
+_repo: My-Rubaiyat_58664
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hartmann, Sadakichi
+    aliases:
+    - Hartmann, Carl Sadakichi
+    - Hartmann, C. Sadakichi
+    birthdate: 1867
+    deathdate: 1944
+    gutenberg_agent_id: '45119'
+    url: http://www.gutenberg.org/2009/agents/45119
+description: ''
+gutenberg_issued: '2019-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58664'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: My Rubaiyat
+url: http://www.gutenberg.org/ebooks/58664
